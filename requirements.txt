@@ -1,4 +1,0 @@
-streamlit
-pandas
-geopy
-streamlit-gsheets-connection
